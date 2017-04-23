@@ -1,0 +1,11 @@
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriendsDB.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriendsDB.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriendsDB.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriendsDB.Test\bin\Debug\FoodForFriendsDB.Test.dll
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriendsDB.Test\bin\Debug\FoodForFriendsDB.Test.pdb
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriendsDB.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriendsDB.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriendsDB.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriendsDB.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriendsDB.Test\obj\Debug\FoodForFriendsDB.Test.dll
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriendsDB.Test\obj\Debug\FoodForFriendsDB.Test.pdb

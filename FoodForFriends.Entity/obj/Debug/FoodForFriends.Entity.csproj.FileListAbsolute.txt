@@ -1,0 +1,9 @@
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriends.Entity\bin\Debug\FoodForFriends.Entity.dll.config
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriends.Entity\bin\Debug\FoodForFriends.Entity.dll
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriends.Entity\bin\Debug\FoodForFriends.Entity.pdb
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriends.Entity\bin\Debug\EntityFramework.dll
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriends.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriends.Entity\bin\Debug\EntityFramework.xml
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriends.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriends.Entity\obj\Debug\FoodForFriends.Entity.dll
+C:\Users\ajant\OneDrive\Documents\GitHub\FoodForFriends\FoodForFriends.Entity\obj\Debug\FoodForFriends.Entity.pdb

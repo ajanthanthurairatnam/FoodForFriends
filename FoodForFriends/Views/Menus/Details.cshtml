@@ -1,0 +1,50 @@
+﻿@model FoodForFriends.Entity.Menu
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Menu</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.MenuName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MenuName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MenuDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MenuDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IsAvailable)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsAvailable)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
